@@ -1,2 +1,2 @@
 # tweetanalyzer
-Natural langua ge analyzer applied to tweets
+Natural language analyzer applied to tweets
